@@ -16,8 +16,12 @@
 <div <abbr title="Python"></abbr>
 <a href="https://www.python.org/" target="_blank"> <img align="left" width="26px" src="https://github.com/sidneysamir/logos/blob/main/python.svg"/> </a></div>
 
+<div <abbr title="Dart"></abbr>
+<a href="https://dart.dev/" target="_blank"> <img align="left" width="50px" src="https://github.com/sidneysamir/logos/blob/main/dart.png"/> </a></div>
+
 <div <abbr title="Github"></abbr>
-<a href="https://github.com/" target="_blank"> <img align="left" width="26px" src="https://github.com/sidneysamir/logos/blob/main/github.svg"/> </a></div>
+<a href="https://github.com/" target="_blank"> <img align="left" width="30px" src="https://github.com/sidneysamir/logos/blob/main/github.svg"/> </a></div>
+
 
 
 
@@ -25,6 +29,18 @@
 
 ### Softwares:
 
+
+<div <abbr title="VsCode"></abbr>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://github.com/sidneysamir/logos/blob/main/vscode.png" </a> </div>
+
+<div <abbr title="Intelij"></abbr>
+<a href="https://www.jetbrains.com/" target="_blank"> <img align="left" width="30px" src="https://github.com/sidneysamir/logos/blob/main/intelij.png"/> </a></div>
+
+<div <abbr title="Android Studio"></abbr>
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" width="26px" src="https://github.com/sidneysamir/logos/blob/main/AndroidStudio.png"/> </a></div>
+
+<div <abbr title="Eclipse"></abbr>
+<a href="https://www.eclipse.org/" target="_blank"> <img align="left" width="35px" src="https://github.com/sidneysamir/logos/blob/main/eclipse.png"/> </a></div>
 
 
 
