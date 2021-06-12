@@ -16,6 +16,11 @@
 <div <abbr title="Python"></abbr>
 <a href="https://www.python.org/" target="_blank"> <img align="left" width="26px" src="https://github.com/sidneysamir/logos/blob/main/python.svg"/> </a></div>
 
+<div <abbr title="Github"></abbr>
+<a href="https://github.com/" target="_blank"> <img align="left" width="26px" src="https://github.com/sidneysamir/logos/blob/main/github.svg"/> </a></div>
+
+
+
 <br />
 
 ### Softwares:
