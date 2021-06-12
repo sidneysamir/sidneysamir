@@ -22,9 +22,6 @@
 <div <abbr title="Github"></abbr>
 <a href="https://github.com/" target="_blank"> <img align="left" width="30px" src="https://github.com/sidneysamir/logos/blob/main/github.svg"/> </a></div>
 
-
-
-
 <br />
 
 ### Softwares:
@@ -42,5 +39,8 @@
 <div <abbr title="Eclipse"></abbr>
 <a href="https://www.eclipse.org/" target="_blank"> <img align="left" width="35px" src="https://github.com/sidneysamir/logos/blob/main/eclipse.png"/> </a></div>
 
+<br />
+<br />
+<br />
 
-
+[![Sidney's github stats](https://github-readme-stats.vercel.app/api?username=sidneysamir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
